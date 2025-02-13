@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on enterprise-level .NET projects, cloud-native applications, and performance optimization solutions.
 - 📫 How to reach me  Email - bchathurya78@gmail.com | LinkedIn - https://www.linkedin.com/in/chathurya-b-a903b9179/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I enjoy debugging and optimizing SQL queries almost as much as solving escape room puzzles!
+- ⚡ Fun fact: I enjoy debugging and optimiZing SQL queries almost as much as solving escape room puzzles!
 
 <!---
 Chathurya012-ai/Chathurya012-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
